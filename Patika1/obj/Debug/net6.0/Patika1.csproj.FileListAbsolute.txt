@@ -1,0 +1,15 @@
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\bin\Debug\net6.0\Patika1.exe
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\bin\Debug\net6.0\Patika1.deps.json
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\bin\Debug\net6.0\Patika1.runtimeconfig.json
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\bin\Debug\net6.0\Patika1.dll
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\bin\Debug\net6.0\ref\Patika1.dll
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\bin\Debug\net6.0\Patika1.pdb
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.csproj.AssemblyReference.cache
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.AssemblyInfoInputs.cache
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.AssemblyInfo.cs
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.csproj.CoreCompileInputs.cache
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.dll
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\ref\Patika1.dll
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.pdb
+C:\Users\isc\OneDrive\Masaüstü\Kodluyoruz\Ödevler\Patika1\obj\Debug\net6.0\Patika1.genruntimeconfig.cache
