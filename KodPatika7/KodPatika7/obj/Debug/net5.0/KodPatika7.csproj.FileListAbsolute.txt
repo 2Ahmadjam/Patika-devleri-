@@ -1,0 +1,16 @@
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\bin\Debug\net5.0\KodPatika7.exe
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\bin\Debug\net5.0\KodPatika7.deps.json
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\bin\Debug\net5.0\KodPatika7.runtimeconfig.json
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\bin\Debug\net5.0\KodPatika7.runtimeconfig.dev.json
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\bin\Debug\net5.0\KodPatika7.dll
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\bin\Debug\net5.0\ref\KodPatika7.dll
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\bin\Debug\net5.0\KodPatika7.pdb
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.csprojAssemblyReference.cache
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.AssemblyInfoInputs.cache
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.AssemblyInfo.cs
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.csproj.CoreCompileInputs.cache
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.dll
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\ref\KodPatika7.dll
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.pdb
+C:\Users\isc\source\repos\KodPatika7\KodPatika7\obj\Debug\net5.0\KodPatika7.genruntimeconfig.cache
